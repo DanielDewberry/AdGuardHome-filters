@@ -1,0 +1,11 @@
+! ==============================================================================
+! Title:        AdGuardHome-blocklist.txt
+! Author:       Daniel Dewberry
+! Date:         2024-01-25
+! Description:  Curated blocklist for AdGuardHome.
+! References:   - https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style
+! ==============================================================================
+
+! Queries for subdomains of secshow.net are from a spoofed IP on the same subnet as the resolver.
+! The subdomain fingerprints the request to determine which resolvers forward the requests.
+||secshow.net^
