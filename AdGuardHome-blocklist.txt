@@ -8,6 +8,20 @@
 
 ! Queries for subdomains of secshow.net are from a spoofed IP on the same subnet as the resolver.
 ! The subdomain fingerprints the request to determine which resolvers forward the requests.
+! They aren't the only ones. This list includes those entries in my DNS records which attempt
+!   to perform such tracking.
 ||secshow.net^
 ||secshow.online^
 ||secdns.site^
+||openresolve.rs^
+||dnsscan.top^
+||dnssec.top^
+||drakkarns.com^
+||dnsresearch.cymru.com^
+||1u1gpup5i8kbtvctq9peakblhhzk.com^
+||n64.top^
+||taobao.com^
+||savme.xyz^
+||xjtu-rise-1.top^
+||asertdnsresearch.com^
+||open-resolver-scan.research.icann.org^
