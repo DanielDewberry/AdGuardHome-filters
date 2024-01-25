@@ -10,3 +10,4 @@
 ! The subdomain fingerprints the request to determine which resolvers forward the requests.
 ||secshow.net^
 ||secshow.online^
+||secdns.site^
