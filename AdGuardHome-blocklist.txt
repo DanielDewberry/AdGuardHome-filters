@@ -9,3 +9,4 @@
 ! Queries for subdomains of secshow.net are from a spoofed IP on the same subnet as the resolver.
 ! The subdomain fingerprints the request to determine which resolvers forward the requests.
 ||secshow.net^
+||secshow.online^
