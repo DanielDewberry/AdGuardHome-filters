@@ -25,3 +25,4 @@
 ||secshow.online^
 ||taobao.com^
 ||xjtu-rise-1.top^
+||echodns.xyz^
