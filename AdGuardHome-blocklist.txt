@@ -24,6 +24,7 @@
 ||secdns.site^
 ||secshow.net^
 ||secshow.online^
+||shadowserver.org^
 ||taobao.com^
 ||xjtu-rise-1.top^
 ||echodns.xyz^
