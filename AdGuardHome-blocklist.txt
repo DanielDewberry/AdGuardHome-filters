@@ -2,6 +2,7 @@
 ! Title:        AdGuardHome-blocklist.txt
 ! Author:       Daniel Dewberry
 ! Date:         2024-01-25
+! Updated:      2024-07-20
 ! Description:  Curated blocklist for AdGuardHome.
 ! References:   - https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style
 ! ==============================================================================
@@ -26,3 +27,39 @@
 ||taobao.com^
 ||xjtu-rise-1.top^
 ||echodns.xyz^
+
+
+! ==============================================================================
+! CrowdStrike
+! ==================
+
+||crowdstrike-helpdesk.com^
+||crowdstrikebluescreen.com^
+||crowdstrike-bsod.com^
+||crowdstrikedown.site^
+||crowdstrike0day.com^
+||crowdstrikedoomsday.com^
+||crowdstrikefix.com^
+||crashstrike.com^
+||crowdstriketoken.com^
+||fix-crowdstrike-bsod.com^
+||bsodsm8r.xamzgjedu.com^
+||crowdstrikebsodfix.blob.core.windows.net^
+||crowdstrikecommuication.app^
+||fix-crowdstrike-apocalypse.com^
+||supportportal-crowdstrike-com.translate.goog^
+||crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com^
+||crowdstrikeoutage.info^
+||clownstrike.co.uk^
+||crowdstrikebsod.com^
+||whatiscrowdstrike.com^
+||clownstrike.co^
+||microsoftcrowdstrike.com^
+||crowdfalcon-immed-update.com^
+||crowdstuck.org^
+||failstrike.com^
+||winsstrike.com^
+||crowdpass.live^
+||crowdstrokeme.me^
+||crowdstrikerecovery1.blob.core.windows.net^
+||crowdstrikeupdate.com^
