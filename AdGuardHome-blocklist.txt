@@ -64,3 +64,9 @@
 ||crowdstrokeme.me^
 ||crowdstrikerecovery1.blob.core.windows.net^
 ||crowdstrikeupdate.com^
+
+
+! ==============================================================================
+! Scams
+! ==================
+||ubnuntu.com^
